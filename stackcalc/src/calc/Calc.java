@@ -4,16 +4,20 @@ import calc.commands.Command;
 import calc.commands.Context;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class Calc
 {
+    private static Logger logger = Logger.getLogger(Calc.class.getName());
+
     public void execute(InputStream in)
     {
         String str;
         BufferedReader br = new BufferedReader(new InputStreamReader(in));
+        logger.log(Level.INFO, "Created BufferedReader");
 
         Command command = null;
         String[] strs;
@@ -21,8 +25,11 @@ public class Calc
         try{
             while((str = br.readLine()) != null)
             {
-//                System.out.println(str);
-                if(str.charAt(0) == '#') continue;
+                if(str.charAt(0) == '#')
+                {
+                    logger.log(Level.INFO, "Found comment");
+                    continue;
+                }
 
                 strs = str.split(" ");
                 String commandName = strs[0];
@@ -34,9 +41,9 @@ public class Calc
 
             }
         }
-        catch (IOException e)
+        catch (Exception e)
         {
-            System.out.format("Exception: %s\n", e);
+            logger.log(Level.WARNING, "Exception: " + e);
         }
 
     }
