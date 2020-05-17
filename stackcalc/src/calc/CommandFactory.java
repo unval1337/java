@@ -1,6 +1,8 @@
 package calc;
 
 import calc.commands.Command;
+import calc.exceptions.CalcException;
+import calc.exceptions.ExecuteNonexistentCommandException;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -41,9 +43,10 @@ public class CommandFactory {
         return instance;
     }
 
-    public Command addCommand(String commandName)
+    public Command addCommand(String commandName) throws CalcException
     {
         Command command = null;
+
         try
         {
             logger.log(Level.INFO, "Added command " + commandName);
@@ -52,6 +55,8 @@ public class CommandFactory {
         catch (Exception e)
         {
             logger.log(Level.WARNING, "Exception of adding command " + commandName + ": " + e);
+            throw new ExecuteNonexistentCommandException("Adding command: Execute non-existent command " + commandName +
+                    "\nHaven't class or note in table of properties?");
         }
 
         return command;

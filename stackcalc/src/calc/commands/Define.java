@@ -13,8 +13,7 @@ public class Define implements Command
     @Override
     public void execute(Context context, String[] args) throws CalcException
     {
-
-        if(!Character.isDigit(args[0].charAt(0)) && Character.isDigit(args[1].charAt(0)))
+        if(args != null && args.length == 2 && !Character.isDigit(args[0].charAt(0)) && Character.isDigit(args[1].charAt(0)))
         {
             context.setVariable(args[0], Double.valueOf(args[1]));
             logger.log(Level.INFO, "Did operation " + this.getClass().getName());

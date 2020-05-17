@@ -1,98 +1,98 @@
-мая 13, 2020 7:16:48 PM Main main
+мая 17, 2020 3:09:30 PM Main main
 INFO: Selected Test.txt
-мая 13, 2020 7:16:48 PM calc.Calc execute
+мая 17, 2020 3:09:30 PM calc.Calc execute
 INFO: Created BufferedReader
-мая 13, 2020 7:16:48 PM calc.CommandFactory getInstance
+мая 17, 2020 3:09:30 PM calc.CommandFactory getInstance
 INFO: Got instance of CommandFactory
-мая 13, 2020 7:16:48 PM calc.CommandFactory <init>
+мая 17, 2020 3:09:30 PM calc.CommandFactory <init>
 INFO: Got command properties
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command DEFINE
-мая 13, 2020 7:16:48 PM calc.commands.Define execute
+мая 17, 2020 3:09:30 PM calc.commands.Define execute
 INFO: Did operation calc.commands.Define
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command DEFINE
-мая 13, 2020 7:16:48 PM calc.commands.Define execute
+мая 17, 2020 3:09:30 PM calc.commands.Define execute
 INFO: Did operation calc.commands.Define
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PUSH
-мая 13, 2020 7:16:48 PM calc.commands.Push execute
+мая 17, 2020 3:09:30 PM calc.commands.Push execute
 INFO: Did operation calc.commands.Push
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PRINT
-мая 13, 2020 7:16:48 PM calc.commands.Print execute
+мая 17, 2020 3:09:30 PM calc.commands.Print execute
 INFO: Did operation calc.commands.Print
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PUSH
-мая 13, 2020 7:16:48 PM calc.commands.Push execute
+мая 17, 2020 3:09:30 PM calc.commands.Push execute
 INFO: Did operation calc.commands.Push
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PRINT
-мая 13, 2020 7:16:48 PM calc.commands.Print execute
+мая 17, 2020 3:09:30 PM calc.commands.Print execute
 INFO: Did operation calc.commands.Print
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PUSH
-мая 13, 2020 7:16:48 PM calc.commands.Push execute
+мая 17, 2020 3:09:30 PM calc.commands.Push execute
 INFO: Did operation calc.commands.Push
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command POP
-мая 13, 2020 7:16:48 PM calc.commands.Pop execute
+мая 17, 2020 3:09:30 PM calc.commands.Pop execute
 INFO: Did operation calc.commands.Pop
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PRINT
-мая 13, 2020 7:16:48 PM calc.commands.Print execute
+мая 17, 2020 3:09:30 PM calc.commands.Print execute
 INFO: Did operation calc.commands.Print
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command *
-мая 13, 2020 7:16:48 PM calc.commands.Multiplication execute
+мая 17, 2020 3:09:30 PM calc.commands.Multiplication execute
 INFO: Did operation calc.commands.Multiplication
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PRINT
-мая 13, 2020 7:16:48 PM calc.commands.Print execute
+мая 17, 2020 3:09:30 PM calc.commands.Print execute
 INFO: Did operation calc.commands.Print
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PUSH
-мая 13, 2020 7:16:48 PM calc.commands.Push execute
+мая 17, 2020 3:09:30 PM calc.commands.Push execute
 INFO: Did operation calc.commands.Push
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command /
-мая 13, 2020 7:16:48 PM calc.commands.Division execute
+мая 17, 2020 3:09:30 PM calc.commands.Division execute
 INFO: Did operation calc.commands.Division
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PRINT
-мая 13, 2020 7:16:48 PM calc.commands.Print execute
+мая 17, 2020 3:09:30 PM calc.commands.Print execute
 INFO: Did operation calc.commands.Print
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PUSH
-мая 13, 2020 7:16:48 PM calc.commands.Push execute
+мая 17, 2020 3:09:30 PM calc.commands.Push execute
 INFO: Did operation calc.commands.Push
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command +
-мая 13, 2020 7:16:48 PM calc.commands.Sum execute
+мая 17, 2020 3:09:30 PM calc.commands.Sum execute
 INFO: Did operation calc.commands.Sum
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PRINT
-мая 13, 2020 7:16:48 PM calc.commands.Print execute
+мая 17, 2020 3:09:30 PM calc.commands.Print execute
 INFO: Did operation calc.commands.Print
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PUSH
-мая 13, 2020 7:16:48 PM calc.commands.Push execute
+мая 17, 2020 3:09:30 PM calc.commands.Push execute
 INFO: Did operation calc.commands.Push
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command -
-мая 13, 2020 7:16:48 PM calc.commands.Sub execute
+мая 17, 2020 3:09:30 PM calc.commands.Sub execute
 INFO: Did operation calc.commands.Sub
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PRINT
-мая 13, 2020 7:16:48 PM calc.commands.Print execute
+мая 17, 2020 3:09:30 PM calc.commands.Print execute
 INFO: Did operation calc.commands.Print
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command SQRT
-мая 13, 2020 7:16:48 PM calc.commands.Sqrt execute
+мая 17, 2020 3:09:30 PM calc.commands.Sqrt execute
 INFO: Did operation calc.commands.Sqrt
-мая 13, 2020 7:16:48 PM calc.CommandFactory addCommand
+мая 17, 2020 3:09:30 PM calc.CommandFactory addCommand
 INFO: Added command PRINT
-мая 13, 2020 7:16:48 PM calc.commands.Print execute
+мая 17, 2020 3:09:30 PM calc.commands.Print execute
 INFO: Did operation calc.commands.Print
-мая 13, 2020 7:16:48 PM Main main
+мая 17, 2020 3:09:30 PM Main main
 INFO: Successful exit
