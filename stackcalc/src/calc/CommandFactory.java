@@ -50,13 +50,14 @@ public class CommandFactory {
         try
         {
             logger.log(Level.INFO, "Added command " + commandName);
-            command = (Command) Class.forName(prop.getProperty(commandName)).getDeclaredConstructor().newInstance();
+            String className = prop.getProperty(commandName);
+            if(className == null) return null;
+
+            command = (Command) Class.forName(className).getDeclaredConstructor().newInstance();
         }
         catch (Exception e)
         {
             logger.log(Level.WARNING, "Exception of adding command " + commandName + ": " + e);
-            throw new ExecuteNonexistentCommandException("Adding command: Execute non-existent command " + commandName +
-                    "\nHaven't class or note in table of properties?");
         }
 
         return command;

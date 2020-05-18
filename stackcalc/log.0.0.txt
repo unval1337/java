@@ -96,3 +96,460 @@ INFO: Added command PRINT
 INFO: Did operation calc.commands.Print
 мая 17, 2020 3:09:30 PM Main main
 INFO: Successful exit
+мая 18, 2020 1:26:44 PM Main main
+INFO: Selected Test.txt
+мая 18, 2020 1:26:44 PM calc.Calc execute
+INFO: Created BufferedReader
+мая 18, 2020 1:26:44 PM calc.CommandFactory getInstance
+INFO: Got instance of CommandFactory
+мая 18, 2020 1:26:44 PM calc.CommandFactory <init>
+INFO: Got command properties
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:26:44 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:26:44 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:26:44 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:26:44 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:26:44 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:26:44 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:26:44 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command POP
+мая 18, 2020 1:26:44 PM calc.commands.Pop execute
+INFO: Did operation calc.commands.Pop
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:26:44 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command *
+мая 18, 2020 1:26:44 PM calc.commands.Multiplication execute
+INFO: Did operation calc.commands.Multiplication
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:26:44 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:26:44 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command /
+мая 18, 2020 1:26:44 PM calc.commands.Division execute
+INFO: Did operation calc.commands.Division
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:26:44 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:26:44 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command +
+мая 18, 2020 1:26:44 PM calc.commands.Sum execute
+INFO: Did operation calc.commands.Sum
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:26:44 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:26:44 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command -
+мая 18, 2020 1:26:44 PM calc.commands.Sub execute
+INFO: Did operation calc.commands.Sub
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:26:44 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command SQRT
+мая 18, 2020 1:26:44 PM calc.commands.Sqrt execute
+INFO: Did operation calc.commands.Sqrt
+мая 18, 2020 1:26:44 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:26:44 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:26:44 PM Main main
+INFO: Successful exit
+мая 18, 2020 1:26:58 PM Main main
+INFO: Selected Test.txt
+мая 18, 2020 1:26:58 PM calc.Calc execute
+INFO: Created BufferedReader
+мая 18, 2020 1:26:58 PM calc.CommandFactory getInstance
+INFO: Got instance of CommandFactory
+мая 18, 2020 1:26:58 PM calc.CommandFactory <init>
+INFO: Got command properties
+мая 18, 2020 1:26:58 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:26:58 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:26:58 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:26:58 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:26:58 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:26:58 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:26:58 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:26:58 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:26:58 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:26:58 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:26:58 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:26:58 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:26:58 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:26:58 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:26:58 PM calc.CommandFactory addCommand
+INFO: Added command POP
+мая 18, 2020 1:26:58 PM calc.commands.Pop execute
+INFO: Did operation calc.commands.Pop
+мая 18, 2020 1:26:58 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:26:58 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:26:58 PM calc.CommandFactory addCommand
+INFO: Added command sin
+мая 18, 2020 1:26:58 PM calc.CommandFactory addCommand
+WARNING: Exception of adding command sin: java.lang.NullPointerException
+мая 18, 2020 1:26:58 PM calc.Calc execute
+WARNING: Exception: calc.exceptions.ExecuteNonexistentCommandException: Adding command: Execute non-existent command sin
+Haven't class or note in table of properties?
+мая 18, 2020 1:26:58 PM Main main
+INFO: Successful exit
+мая 18, 2020 1:30:29 PM Main main
+INFO: Selected Test.txt
+мая 18, 2020 1:30:29 PM calc.Calc execute
+INFO: Created BufferedReader
+мая 18, 2020 1:30:29 PM calc.CommandFactory getInstance
+INFO: Got instance of CommandFactory
+мая 18, 2020 1:30:29 PM calc.CommandFactory <init>
+INFO: Got command properties
+мая 18, 2020 1:30:29 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:30:29 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:30:29 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:30:29 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:30:29 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:30:29 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:30:29 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:30:29 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:30:29 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:30:29 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:30:29 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:30:29 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:30:29 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:30:29 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:30:29 PM calc.CommandFactory addCommand
+INFO: Added command POP
+мая 18, 2020 1:30:29 PM calc.commands.Pop execute
+INFO: Did operation calc.commands.Pop
+мая 18, 2020 1:30:29 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:30:29 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:30:29 PM calc.CommandFactory addCommand
+INFO: Added command sin
+мая 18, 2020 1:30:29 PM calc.CommandFactory addCommand
+WARNING: Exception of adding command sin: calc.exceptions.ExecuteNonexistentCommandException: Adding command: Execute non-existent command sin
+Haven't class or note in table of properties?
+мая 18, 2020 1:30:29 PM calc.Calc execute
+WARNING: Exception: java.lang.NullPointerException
+мая 18, 2020 1:30:29 PM Main main
+INFO: Successful exit
+мая 18, 2020 1:33:39 PM Main main
+INFO: Selected Test.txt
+мая 18, 2020 1:33:39 PM calc.Calc execute
+INFO: Created BufferedReader
+мая 18, 2020 1:33:39 PM calc.CommandFactory getInstance
+INFO: Got instance of CommandFactory
+мая 18, 2020 1:33:39 PM calc.CommandFactory <init>
+INFO: Got command properties
+мая 18, 2020 1:33:39 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:33:39 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:33:39 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:33:39 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:33:39 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:33:39 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:33:39 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:33:39 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:33:39 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:33:39 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:33:39 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:33:39 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:33:39 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:33:39 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:33:39 PM calc.CommandFactory addCommand
+INFO: Added command POP
+мая 18, 2020 1:33:39 PM calc.commands.Pop execute
+INFO: Did operation calc.commands.Pop
+мая 18, 2020 1:33:39 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:33:39 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:33:39 PM calc.CommandFactory addCommand
+INFO: Added command sin
+мая 18, 2020 1:33:39 PM calc.Calc execute
+WARNING: Exception: calc.exceptions.ExecuteNonexistentCommandException: Adding command: Execute non-existent command sin
+Haven't class or note in table of properties?
+мая 18, 2020 1:33:39 PM Main main
+INFO: Successful exit
+мая 18, 2020 1:34:16 PM Main main
+INFO: Selected Test.txt
+мая 18, 2020 1:34:17 PM calc.Calc execute
+INFO: Created BufferedReader
+мая 18, 2020 1:34:17 PM calc.CommandFactory getInstance
+INFO: Got instance of CommandFactory
+мая 18, 2020 1:34:17 PM calc.CommandFactory <init>
+INFO: Got command properties
+мая 18, 2020 1:34:17 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:34:17 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:34:17 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:34:17 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:34:17 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:34:17 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:34:17 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:34:17 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:34:17 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:34:17 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:34:17 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:34:17 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:34:17 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:34:17 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:34:17 PM calc.CommandFactory addCommand
+INFO: Added command POP
+мая 18, 2020 1:34:17 PM calc.commands.Pop execute
+INFO: Did operation calc.commands.Pop
+мая 18, 2020 1:34:17 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:34:17 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:34:17 PM calc.CommandFactory addCommand
+INFO: Added command sin
+мая 18, 2020 1:34:17 PM calc.CommandFactory addCommand
+WARNING: Exception of adding command sin: java.lang.ClassNotFoundException: calc.commands.sin
+мая 18, 2020 1:34:17 PM calc.Calc execute
+WARNING: Exception: calc.exceptions.ExecuteNonexistentCommandException: Adding command: Execute non-existent command sin
+Haven't class or note in table of properties?
+мая 18, 2020 1:34:17 PM Main main
+INFO: Successful exit
+мая 18, 2020 1:38:22 PM Main main
+INFO: Selected Test.txt
+мая 18, 2020 1:38:22 PM calc.Calc execute
+INFO: Created BufferedReader
+мая 18, 2020 1:38:22 PM calc.CommandFactory getInstance
+INFO: Got instance of CommandFactory
+мая 18, 2020 1:38:22 PM calc.CommandFactory <init>
+INFO: Got command properties
+мая 18, 2020 1:38:22 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:38:22 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:38:22 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:38:22 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:38:22 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:38:22 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:38:22 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:38:22 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:38:22 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:38:22 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:38:22 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:38:22 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:38:22 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:38:22 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:38:22 PM calc.CommandFactory addCommand
+INFO: Added command POP
+мая 18, 2020 1:38:22 PM calc.commands.Pop execute
+INFO: Did operation calc.commands.Pop
+мая 18, 2020 1:38:22 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:38:22 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:38:22 PM calc.CommandFactory addCommand
+INFO: Added command sin
+мая 18, 2020 1:38:22 PM calc.Calc execute
+WARNING: Exception: calc.exceptions.ExecuteNonexistentCommandException: Adding command: Execute non-existent command sin
+Haven't class or note in table of properties?
+мая 18, 2020 1:38:22 PM Main main
+INFO: Successful exit
+мая 18, 2020 1:38:38 PM Main main
+INFO: Selected Test.txt
+мая 18, 2020 1:38:38 PM calc.Calc execute
+INFO: Created BufferedReader
+мая 18, 2020 1:38:38 PM calc.CommandFactory getInstance
+INFO: Got instance of CommandFactory
+мая 18, 2020 1:38:38 PM calc.CommandFactory <init>
+INFO: Got command properties
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:38:38 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command DEFINE
+мая 18, 2020 1:38:38 PM calc.commands.Define execute
+INFO: Did operation calc.commands.Define
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:38:38 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:38:38 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:38:38 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:38:38 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:38:38 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command POP
+мая 18, 2020 1:38:38 PM calc.commands.Pop execute
+INFO: Did operation calc.commands.Pop
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:38:38 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command *
+мая 18, 2020 1:38:38 PM calc.commands.Multiplication execute
+INFO: Did operation calc.commands.Multiplication
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:38:38 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:38:38 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command /
+мая 18, 2020 1:38:38 PM calc.commands.Division execute
+INFO: Did operation calc.commands.Division
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:38:38 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:38:38 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command +
+мая 18, 2020 1:38:38 PM calc.commands.Sum execute
+INFO: Did operation calc.commands.Sum
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:38:38 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PUSH
+мая 18, 2020 1:38:38 PM calc.commands.Push execute
+INFO: Did operation calc.commands.Push
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command -
+мая 18, 2020 1:38:38 PM calc.commands.Sub execute
+INFO: Did operation calc.commands.Sub
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:38:38 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command SQRT
+мая 18, 2020 1:38:38 PM calc.commands.Sqrt execute
+INFO: Did operation calc.commands.Sqrt
+мая 18, 2020 1:38:38 PM calc.CommandFactory addCommand
+INFO: Added command PRINT
+мая 18, 2020 1:38:38 PM calc.commands.Print execute
+INFO: Did operation calc.commands.Print
+мая 18, 2020 1:38:38 PM Main main
+INFO: Successful exit

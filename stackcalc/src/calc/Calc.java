@@ -2,6 +2,7 @@ package calc;
 
 import calc.commands.Command;
 import calc.commands.Context;
+import calc.exceptions.ExecuteNonexistentCommandException;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
@@ -37,6 +38,9 @@ public class Calc
                 System.arraycopy(strs, 1, args, 0, strs.length - 1);
 
                 command = CommandFactory.getInstance().addCommand(commandName);
+                if(command == null) throw new ExecuteNonexistentCommandException("Adding command: Execute non-existent command " + commandName +
+                    "\nHaven't class or note in table of properties?");
+
                 command.execute(context, args);
 
             }
